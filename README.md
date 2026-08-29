@@ -58,15 +58,15 @@
 
 <br/><br/>
 
-**Backend & Programming**
+**Backend & Database , Tools**
 <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,java,python&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,git,github,vscode&theme=dark" />
 
 <br/><br/>
 
-**Database & Tools**
+**Programming Language**
 <br/>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,python&theme=dark" />
 
 </div>
 
