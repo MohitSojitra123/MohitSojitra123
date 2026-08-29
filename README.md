@@ -1,489 +1,511 @@
-\<div align="center">
+<div align="center">
 
-\<img src="https\://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=2E97F7&center=true&vCenter=true&width=750&lines=Hi+There!+I'm+Mohit+Sojitra;Full+Stack+Developer;MERN+Stack+Enthusiast;Java+%7C+OOP+%7C+DSA;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=2E97F7&center=true&vCenter=true&width=750&lines=Hi+There!+I'm+Mohit+Sojitra;Full+Stack+Developer;MERN+Stack+Enthusiast;Java+%7C+OOP+%7C+DSA;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 
-\<img src="https\://raw\.githubusercontent.com/aaronbywater/aaronbywater/master/wave.gif" width="70"/>
+<br/>
 
-\<br/>
+<img src="https://raw.githubusercontent.com/aaronbywater/aaronbywater/master/wave.gif" width="70"/>
 
-\<img src="https\://komarev.com/ghpvc/?username=MohitSojitra123&color=2E97F7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+<br/>
 
-\<a href="https\://leetcode.com/u/Wiq3FwFtLi/">\<img src="https\://img.shields.io/badge/LEETCODE-Wiq3FwFtLi-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>\</a>
+<img src="https://komarev.com/ghpvc/?username=MohitSojitra123&color=2E97F7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 
-\<a href="https\://github.com/MohitSojitra123/">\<img src="https\://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>\</a>
+<br/><br/>
 
-\<a href="https\://linkedin.com/in/MohitSojitra123">\<img src="https\://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>\</a>
+<a href="https://leetcode.com/u/Wiq3FwFtLi/">
+<img src="https://img.shields.io/badge/LEETCODE-Wiq3FwFtLi-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
 
-\</div>
+<a href="https://github.com/MohitSojitra123/">
+<img src="https://img.shields.io/badge/GITHUB-MohitSojitra123-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-\<br/>
+<a href="https://linkedin.com/in/MohitSojitra123">
+<img src="https://img.shields.io/badge/LINKEDIN-MohitSojitra123-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-\## 🧭 Quick Navigation
+</div>
 
-\<div align="center">
+<br/>
 
-[![About]\(https\://img.shields.io/badge/📍\_About-2E97F7?style=flat-square)]\(#-about-me) &nbsp;
+## 🧭 Quick Navigation
 
-[![Stack]\(https\://img.shields.io/badge/🛠️\_Tech\_Stack-2E97F7?style=flat-square)]\(#️-tech-stack) &nbsp;
+<div align="center">
 
-[![Skills]\(https\://img.shields.io/badge/🧠\_Skills-2E97F7?style=flat-square)]\(#-core-skills) &nbsp;
+[![About](https://img.shields.io/badge/📍_About-2E97F7?style=flat-square)](#-about-me)  
 
-[![Education]\(https\://img.shields.io/badge/🎓\_Education-2E97F7?style=flat-square)]\(#-education) &nbsp;
+[![Stack](https://img.shields.io/badge/🛠️_Tech_Stack-2E97F7?style=flat-square)](#️-tech-stack)  
 
-[![Projects]\(https\://img.shields.io/badge/💼\_Projects-2E97F7?style=flat-square)]\(#-featured-projects) &nbsp;
+[![Skills](https://img.shields.io/badge/🧠_Skills-2E97F7?style=flat-square)](#-core-skills)  
 
-[![LeetCode]\(https\://img.shields.io/badge/🧩\_LeetCode-2E97F7?style=flat-square)]\(#-leetcode-journey) &nbsp;
+[![Education](https://img.shields.io/badge/🎓_Education-2E97F7?style=flat-square)](#-education)  
 
-[![Stats]\(https\://img.shields.io/badge/📊\_GitHub\_Stats-2E97F7?style=flat-square)]\(#-github-stats) &nbsp;
+[![Projects](https://img.shields.io/badge/💼_Projects-2E97F7?style=flat-square)](#-featured-projects)  
 
-[![Contact]\(https\://img.shields.io/badge/📬\_Contact-2E97F7?style=flat-square)]\(#-connect-with-me)
+[![LeetCode](https://img.shields.io/badge/🧩_LeetCode-2E97F7?style=flat-square)](#-leetcode-journey)  
 
-\</div>
+[![GitHub](https://img.shields.io/badge/🐙_GitHub-2E97F7?style=flat-square)](#-github-profile--activity)  
 
-**---**
+[![Stats](https://img.shields.io/badge/📊_GitHub_Stats-2E97F7?style=flat-square)](#-github-stats)  
 
-\## 📍 About Me
+[![Contact](https://img.shields.io/badge/📬_Contact-2E97F7?style=flat-square)](#-connect-with-me)
 
-\<img align="right" alt="Coding GIF" width="320" src="https\://raw\.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Coding.gif">
+</div>
 
-\- 🎓 Currently pursuing **\*\*MCA\*\*** at **\*\*Darshan University, Rajkot\*\*** — CPI: **\*\*8.72\*\***
+---
 
-\- 💻 **\*\*Full Stack Developer\*\*** skilled in **\*\*HTML, CSS, JavaScript, React.js, Node.js, Express.js & MongoDB\*\***
+## 📍 About Me
 
-\- 🧠 Passionate about **\*\*Data Structures, Algorithms, OOP and Problem Solving\*\***
+<img align="right" alt="Coding GIF" width="320" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Coding.gif">
 
-\- 🌱 Quick learner, always exploring new technologies and clean-code practices
+* 🎓 Currently pursuing **MCA** at **Darshan University, Rajkot** — CPI: **8.72**
 
-\- 🧩 Actively solving problems on **\*\*LeetCode\*\***
+* 💻 **Full Stack Developer** skilled in **HTML, CSS, JavaScript, React.js, Node.js, Express.js & MongoDB**
 
-\- 📐 Currently strengthening **\*\*System Design\*\*** fundamentals
+* 🧠 Passionate about **Data Structures, Algorithms, OOP and Problem Solving**
 
-\- ⚡ Fun fact: I turn coffee ☕ into code 💻
+* 🌱 Quick learner, always exploring new technologies and clean-code practices
 
-\<br clear="right"/>
+* 🧩 Actively solving problems on **LeetCode**
 
-**---**
+* 📐 Currently strengthening **System Design** fundamentals
 
-\## 🛠️ Tech Stack
+* 🐙 Building projects and maintaining my development journey on **GitHub**
 
-\<div align="center">
+* ⚡ Fun fact: I turn coffee ☕ into code 💻
 
-**\*\*Frontend\*\***
+<br clear="right"/>
 
-\<br/>
+---
 
-\<img src="https\://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind&theme=dark" />
+## 🛠️ Tech Stack
 
-\<br/>\<br/>
+<div align="center">
 
-**\*\*Backend & Programming\*\***
+### Frontend
 
-\<br/>
+<br/>
 
-\<img src="https\://skillicons.dev/icons?i=nodejs,express,java,python&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind&theme=dark" />
 
-\<br/>\<br/>
+<br/><br/>
 
-**\*\*Database & Tools\*\***
+### Backend & Programming
 
-\<br/>
+<br/>
 
-\<img src="https\://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,java,python&theme=dark" />
 
-\</div>
+<br/><br/>
 
-\<br/>
+### Database & Tools
 
-\<div align="center">
+<br/>
 
-![HTML5]\(https\://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode&theme=dark" />
 
-![CSS3]\(https\://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+</div>
 
-![JavaScript]\(https\://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<br/>
 
-![React]\(https\://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+<div align="center">
 
-![Node.js]\(https\://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 
-![Express.js]\(https\://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 
-![MongoDB]\(https\://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
-![Java]\(https\://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 
-![Python]\(https\://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
 
-![Bootstrap]\(https\://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
 
-![Tailwind CSS]\(https\://img.shields.io/badge/Tailwind\_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
 
-![SQL]\(https\://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
 
-![Git]\(https\://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 
-![GitHub]\(https\://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
 
-\</div>
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
 
-**---**
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 
-\## 🧠 Core Skills
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 
-\<div align="center">
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 
-\| Category | Skills |
+</div>
 
-\|:---|:---|
+---
 
-\| 🎨 **\*\*Frontend\*\*** | HTML • CSS • JavaScript • React.js |
+## 🧠 Core Skills
 
-\| 🖌️ **\*\*UI Frameworks\*\*** | Bootstrap • Tailwind CSS |
+<div align="center">
 
-\| ⚙️ **\*\*Backend\*\*** | Node.js • Express.js |
+| Category                    | Skills                             |
+| :-------------------------- | :--------------------------------- |
+| 🎨 **Frontend**             | HTML • CSS • JavaScript • React.js |
+| 🖌️ **UI Frameworks**       | Bootstrap • Tailwind CSS           |
+| ⚙️ **Backend**              | Node.js • Express.js               |
+| ☕ **Programming**           | Java • Basic Python                |
+| 🧩 **CS Fundamentals**      | OOP • Data Structures              |
+| 🔗 **API Development**      | RESTful APIs                       |
+| 🔐 **Authentication**       | JWT                                |
+| 🗄️ **Database**            | MongoDB • SQL                      |
+| 🛠️ **Version Control**     | Git • GitHub                       |
+| 🐙 **Development Platform** | GitHub                             |
 
-\| ☕ **\*\*Programming\*\*** | Java • Basic Python |
+</div>
 
-\| 🧩 **\*\*CS Fundamentals\*\*** | OOP • Data Structures |
+---
 
-\| 🔗 **\*\*API Development\*\*** | RESTful APIs |
+## 🎓 Education
 
-\| 🔐 **\*\*Authentication\*\*** | JWT |
+| Institution                                   | Degree                           |     Score     |     Duration    |
+| :-------------------------------------------- | :------------------------------- | :-----------: | :-------------: |
+| 🎓 Darshan University, Rajkot                 | Master of Computer Application   | **CPI: 8.72** | Current — Sem 2 |
+| 🎓 Saurashtra University — Geetanjali College | Bachelor of Computer Application | **CPI: 8.05** |   2022 – 2025   |
+| 🏫 Shree Suragvala Sarvajanik HSS             | HSC — Commerce                   |  **70.18 PR** |       2022      |
+| 🏫 Shree Suragvala Sarvajanik HSS             | SSC                              |  **72.24 PR** |       2020      |
 
-\| 🗄️ **\*\*Database\*\*** | MongoDB • SQL |
+---
 
-\| 🛠️ **\*\*Version Control\*\*** | Git • GitHub |
+## 💼 Featured Projects
 
-\</div>
+### 🎉 [Frolic Event Management System](https://github.com/MohitSojitra123/)
 
-**---**
+`MERN Stack • Frontend + Backend`
 
-\## 🎓 Education
+A full-stack event management platform designed to digitally manage **institutes, departments and events** with role-based access.
 
-\| Institution | Degree | Score | Duration |
+**Highlights**
 
-\|:---|:---|:---:|:---:|
+* 🔐 JWT Authentication with Role-Based Access (Admin / Coordinator / Student)
+* 🎉 Event & Group Registration with Participant Management
+* 📝 Attendance & 💳 Payment Management
+* 🏆 Winner Declaration
+* 🔗 RESTful APIs backed by 🍃 MongoDB
+* ⚛️ React-Based UI
 
-\| 🎓 Darshan University, Rajkot | Master of Computer Application | **\*\*CPI: 8.72\*\*** | Current — Sem 2 |
+**Tech:** `React.js` `Node.js` `Express.js` `MongoDB` `JWT`
 
-\| 🎓 Saurashtra University — Geetanjali College | Bachelor of Computer Application | **\*\*CPI: 8.05\*\*** | 2022 – 2025 |
+<br/>
 
-\| 🏫 Shree Suragvala Sarvajanik HSS | HSC — Commerce | **\*\*70.18 PR\*\*** | 2022 |
+### 🎵 [AudioFlow](https://github.com/MohitSojitra123/)
 
-\| 🏫 Shree Suragvala Sarvajanik HSS | SSC | **\*\*72.24 PR\*\*** | 2020 |
-
-**---**
-
-\## 💼 Featured Projects
-
-\### 🎉 Frolic Event Management System
-
-\`MERN Stack • Frontend + Backend\`
-
-A full-stack event management platform designed to digitally manage **\*\*institutes, departments and events\*\*** with role-based access.
-
-**\*\*Highlights\*\***
-
-\- 🔐 JWT Authentication with Role-Based Access (Admin / Coordinator / Student)
-
-\- 🎉 Event & Group Registration with Participant Management
-
-\- 📝 Attendance & 💳 Payment Management
-
-\- 🏆 Winner Declaration
-
-\- 🔗 RESTful APIs backed by 🍃 MongoDB
-
-\- ⚛️ React-Based UI
-
-**\*\*Tech:\*\*** \`React.js\` \`Node.js\` \`Express.js\` \`MongoDB\` \`JWT\`
-
-\<br/>
-
-\### 🎵 AudioFlow
-
-\`React.js • Advanced React Hooks\`
+`React.js • Advanced React Hooks`
 
 An interactive and responsive audio player built using modern React concepts and component-based architecture.
 
-**\*\*Highlights\*\***
+**Highlights**
 
-\- ▶️ Play / Pause with Full Track Management
+* ▶️ Play / Pause with Full Track Management
+* ⚛️ Built with `useState`, `useEffect`, `useContext`
+* 🧩 Reusable, Component-Based Architecture
+* 📱 Responsive UI with Performance Optimization
 
-\- ⚛️ Built with \`useState\`, \`useEffect\`, \`useContext\`
+**Tech:** `React.js` `Hooks` `Component Architecture`
 
-\- 🧩 Reusable, Component-Based Architecture
+<br/>
 
-\- 📱 Responsive UI with Performance Optimization
+### 🚌 [Bus Booking System](https://github.com/MohitSojitra123/)
 
-**\*\*Tech:\*\*** \`React.js\` \`Hooks\` \`Component Architecture\`
-
-\<br/>
-
-\### 🚌 Bus Booking System
-
-\`Java • OOP • Console Based\`
+`Java • OOP • Console Based`
 
 A console-based Java application for managing bus operations, passenger bookings, seat reservations, cancellations, routes and fares.
 
-**\*\*Highlights\*\***
+**Highlights**
 
-\- 🚌 Bus & 👤 Passenger Management
+* 🚌 Bus & 👤 Passenger Management
+* 💺 Seat Reservation & 🎫 Ticket Cancellation
+* 🛣️ Route Management with 💰 Dynamic Fare Calculation
+* ⚠️ Custom Exception Handling
+* 🧵 Multithreading & 📁 File I/O
 
-\- 💺 Seat Reservation & 🎫 Ticket Cancellation
+**Java Concepts:** `Class & Objects` `Encapsulation` `Inheritance` `Polymorphism` `Method Overloading/Overriding` `Abstraction` `Interfaces` `Constructor Overloading` `this` `super`
 
-\- 🛣️ Route Management with 💰 Dynamic Fare Calculation
+**Tech:** `Java` `OOP` `Multithreading` `File I/O`
 
-\- ⚠️ Custom Exception Handling
+---
 
-\- 🧵 Multithreading & 📁 File I/O
+## 🧩 LeetCode Journey
 
-**\*\*Java Concepts:\*\*** \`Class & Objects\` \`Encapsulation\` \`Inheritance\` \`Polymorphism\` \`Method Overloading/Overriding\` \`Abstraction\` \`Interfaces\` \`Constructor Overloading\` \`this\` \`super\`
+<div align="center">
 
-**\*\*Tech:\*\*** \`Java\` \`OOP\` \`Multithreading\` \`File I/O\`
+<a href="https://leetcode.com/u/Wiq3FwFtLi/">
 
-**---**
+<img src="https://img.shields.io/badge/LEETCODE-Wiq3FwFtLi-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 
-\## 🧩 LeetCode Journey
+</a>
 
-\<div align="center">
+<br/><br/>
 
-\<a href="https\://leetcode.com/u/Wiq3FwFtLi/">
+<a href="https://leetcode.com/u/Wiq3FwFtLi/">
 
-\<img src="https\://leetcard.jacoblin.cool/Wiq3FwFtLi?theme=dark&font=Baloo&ext=activity" width="800" alt="Mohit Sojitra LeetCode Statistics"/>
+<img src="https://leetcard.jacoblin.cool/Wiq3FwFtLi?theme=dark&font=Baloo&ext=activity" width="800" alt="Mohit Sojitra LeetCode Statistics"/>
 
-\</a>
+</a>
 
-\<br/>\<br/>
+<br/><br/>
 
-\<a href="https\://leetcode.com/u/Wiq3FwFtLi/">
+<a href="https://leetcode.com/u/Wiq3FwFtLi/">
 
-\<img src="https\://leetcard.jacoblin.cool/Wiq3FwFtLi?theme=dark&ext=heatmap" width="800" alt="LeetCode Heatmap"/>
+<img src="https://leetcard.jacoblin.cool/Wiq3FwFtLi?theme=dark&ext=heatmap" width="800" alt="LeetCode Heatmap"/>
 
-\</a>
+</a>
 
-\</div>
+</div>
 
-*> 🔄 Statistics update live from my public LeetCode profile — total solved, difficulty breakdown, acceptance rate, ranking and submission activity.*
+> 🔄 Statistics update live from my public LeetCode profile — total solved, difficulty breakdown, acceptance rate, ranking and submission activity.
 
-\### 🧠 Problem Solving Focus
+### 🧠 Problem Solving Focus
 
-\`\`\`text
+```text
+                         🧠 DSA JOURNEY
+                              │
+             ┌────────────────┴────────────────┐
+             ▼                                 ▼
+      🧩 DATA STRUCTURES                 ⚙️ ALGORITHMS
+             │                                 │
+       ┌─────┼─────────────┐             ┌─────┼─────────┐
+       ▼     ▼             ▼             ▼     ▼         ▼
+     Array  Hash         String        Search  Sort   Recursion
+       │
+       ├── Linked List
+       ├── Stack
+       ├── Queue
+       ├── Tree
+       └── Graph
 
-                         🧠 DSA JOURNEY
+                                     ├── Greedy
+                                     ├── Two Pointers
+                                     └── Dynamic Programming
+```
 
-                              │
+### 🎯 Goals & Philosophy
 
-             ┌────────────────┴────────────────┐
+| Goal                  | Purpose                          |
+| :-------------------- | :------------------------------- |
+| 🧩 Solve Problems     | Improve algorithmic thinking     |
+| 🧠 Learn Patterns     | Recognize common DSA approaches  |
+| ⏱️ Optimize Solutions | Improve time complexity          |
+| 💾 Reduce Space       | Write memory-efficient solutions |
+| 🔍 Debug              | Understand why solutions fail    |
+| 🚀 Improve Daily      | Become a stronger problem solver |
 
-             ▼                                  ▼
+<div align="center">
 
-      🧩 DATA STRUCTURES                  ⚙️ ALGORITHMS
+**🟢 Solve → 🧠 Understand → 🔍 Debug → ⚡ Optimize → 🚀 Improve**
 
-             │                                  │
+</div>
 
-       ┌─────┼─────────────┐            ┌───────┼───────┐
+> 💡 LeetCode isn't only about solving questions — it's about learning how to think, analyze and build better solutions.
 
-       ▼     ▼              ▼            ▼       ▼       ▼
+---
 
-     Array  Hash          String       Search   Sort  Recursion
+# 🐙 GitHub Profile & Activity
 
-       │
+<div align="center">
 
-       ├── Linked List
+<a href="https://github.com/MohitSojitra123/">
 
-       ├── Stack
+<img src="https://img.shields.io/badge/GitHub-MohitSojitra123-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
-       ├── Queue
+</a>
 
-       ├── Tree
+<br/><br/>
 
-       └── Graph
+### 🚀 Explore My GitHub
 
-                                      ├── Greedy
+<a href="https://github.com/MohitSojitra123/">
 
-                                      ├── Two Pointers
+<img src="https://github-readme-stats.vercel.app/api?username=MohitSojitra123&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Mohit Sojitra GitHub Statistics"/>
 
-                                      └── Dynamic Programming
+</a>
 
-\`\`\`
+</div>
 
-\### 🎯 Goals & Philosophy
+### 💻 GitHub Development
 
-\| Goal | Purpose |
+```text
+                    🐙 GITHUB JOURNEY
+                           │
+          ┌────────────────┼────────────────┐
+          ▼                ▼                ▼
+      💻 Projects      🧩 Practice      📚 Learning
+          │                │                │
+          ▼                ▼                ▼
+      🚀 Build         🧠 DSA          🔍 Explore
+          │                │                │
+          └────────────────┼────────────────┘
+                           ▼
+                    📈 Continuous
+                      Improvement
+```
 
-\|:---|:---|
+### 📌 GitHub Focus
 
-\| 🧩 Solve Problems | Improve algorithmic thinking |
+* 🚀 Build and maintain development projects
+* 💻 Practice programming through real applications
+* 🧩 Solve algorithmic problems
+* 🌱 Explore new technologies
+* 🧹 Improve code quality
+* 🔧 Use Git and GitHub for version control
+* 📚 Maintain a continuous learning journey
 
-\| 🧠 Learn Patterns | Recognize common DSA approaches |
+### 🔗 GitHub Profile
 
-\| ⏱️ Optimize Solutions | Improve time complexity |
+**[github.com/MohitSojitra123](https://github.com/MohitSojitra123/)**
 
-\| 💾 Reduce Space | Write memory-efficient solutions |
+---
 
-\| 🔍 Debug | Understand why solutions fail |
+## 📊 GitHub Stats
 
-\| 🚀 Improve Daily | Become a stronger problem solver |
+<div align="center">
 
-\<div align="center">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=MohitSojitra123&show_icons=true&theme=radical&hide_border=true&count_private=true" />
 
-**\*\*🟢 Solve → 🧠 Understand → 🔍 Debug → ⚡ Optimize → 🚀 Improve\*\***
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohitSojitra123&layout=compact&theme=radical&hide_border=true" />
 
-\</div>
+<br/>
 
-*> 💡 LeetCode isn't only about solving questions — it's about learning how to think, analyze and build better solutions.*
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MohitSojitra123&theme=radical&hide_border=true" />
 
-**---**
+<br/>
 
-\## 📊 GitHub Stats
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MohitSojitra123&theme=react-dark&hide_border=true" width="100%"/>
 
-\<div align="center">
+<br/><br/>
 
-\<img height="180" src="https\://github-readme-stats.vercel.app/api?username=MohitSojitra123&show\_icons=true&theme=radical&hide\_border=true&count\_private=true" />
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub Contribution Snake"/>
 
-\<img height="180" src="https\://github-readme-stats.vercel.app/api/top-langs/?username=MohitSojitra123&layout=compact&theme=radical&hide\_border=true" />
+</div>
 
-\<br/>
+---
 
-\<img src="https\://github-readme-streak-stats.herokuapp.com/?user=MohitSojitra123&theme=radical&hide\_border=true" />
+## 💻 Developer Journey
 
-\<br/>
+```text
+                    💡 IDEA
+                      │
+                      ▼
+                  📝 ANALYZE
+                      │
+                      ▼
+                   🏗️ DESIGN
+                      │
+          ┌───────────┴───────────┐
+          ▼                       ▼
+     🎨 FRONTEND              ⚙️ BACKEND
+          │                       │
+          └───────────┬───────────┘
+                      ▼
+                  🗄️ DATABASE
+                      │
+                      ▼
+                  🔐 SECURITY
+                      │
+                      ▼
+                    🧪 TEST
+                      │
+                      ▼
+                  🚀 DEPLOY
+                      │
+                      ▼
+                  📈 IMPROVE
+```
 
-\<img src="https\://github-readme-activity-graph.vercel.app/graph?username=MohitSojitra123&theme=react-dark&hide\_border=true" width="100%"/>
+<details>
 
-\<br/>\<br/>
+<summary>😂 A Developer's Honest Timeline</summary>
 
-\<img src="https\://raw\.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub Contribution Snake"/>
+<br/>
 
-\</div>
-
-**---**
-
-\## 💻 Developer Journey
-
-\`\`\`text
-
-                    💡 IDEA
-
-                      │
-
-                      ▼
-
-                 📝 ANALYZE
-
-                      │
-
-                      ▼
-
-                 🏗️ DESIGN
-
-                      │
-
-          ┌───────────┴───────────┐
-
-          ▼                       ▼
-
-     🎨 FRONTEND              ⚙️ BACKEND
-
-          │                       │
-
-          └───────────┬───────────┘
-
-                       ▼
-
-                 🗄️ DATABASE
-
-                      │
-
-                      ▼
-
-                 🔐 SECURITY
-
-                      │
-
-                      ▼
-
-                  🧪 TEST
-
-                      │
-
-                      ▼
-
-                 🚀 DEPLOY
-
-                      │
-
-                      ▼
-
-                 📈 IMPROVE
-
-\`\`\`
-
-\<details>
-
-\<summary>😂 A Developer's Honest Timeline\</summary>
-
-\<br/>
-
-\`\`\`text
-
+```text
 💡 New Idea → 😎 "This will be easy." → 💻 Start Coding → 🙂 Everything Works
 
-   → ➕ Add One Small Feature → 💥 Everything Breaks → 🐛 Debugging... → ☕ Coffee
+   → ➕ Add One Small Feature → 💥 Everything Breaks → 🐛 Debugging... → ☕ Coffee
 
-   → 🔍 Find The Bug → 🎉 IT WORKS! → 😎 "I'm a Senior Developer Now."
+   → 🔍 Find The Bug → 🎉 IT WORKS! → 😎 "I'm a Senior Developer Now."
+```
 
-\`\`\`
+</details>
 
-\</details>
+---
 
-**---**
+## 🎯 Career Direction
 
-\## 🎯 Career Direction
+> **My goal is to become a strong professional Full Stack Engineer by combining software development, problem-solving and continuous learning.**
 
-*>* **\*\*My goal is to become a strong professional Full Stack Engineer by combining software development, problem-solving and continuous learning.\*\***
+* 💻 Build production-ready applications
+* 🏗️ Improve backend architecture
+* 🧠 Strengthen Data Structures & Algorithms
+* 📐 Learn System Design
+* 🧹 Write clean, maintainable code
+* 🌐 Build scalable web applications
+* 🤝 Contribute to meaningful software projects
+* 📈 Grow through real-world engineering challenges
 
-\- 💻 Build production-ready applications
+---
 
-\- 🏗️ Improve backend architecture
+## 📬 Connect With Me
 
-\- 🧠 Strengthen Data Structures & Algorithms
+<div align="center">
 
-\- 📐 Learn System Design
+<a href="mailto:mohitsojitra599@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-\- 🧹 Write clean, maintainable code
+<a href="https://github.com/MohitSojitra123/">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-\- 🌐 Build scalable web applications
+<a href="https://linkedin.com/in/MohitSojitra123">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-\- 🤝 Contribute to meaningful software projects
+<a href="tel:9408413570">
+<img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
 
-\- 📈 Grow through real-world engineering challenges
+</div>
 
-**---**
+---
 
-\## 📬 Connect With Me
+<div align="center">
 
-\<div align="center">
+<img src="https://komarev.com/ghpvc/?username=MohitSojitra123&color=2E97F7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 
-\<a href="mailto\:mohitsojitra599\@gmail.com">\<img src="https\://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>\</a>
+<br/><br/>
 
-\<a href="https\://github.com/MohitSojitra123/">\<img src="https\://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>\</a>
+<a href="https://github.com/MohitSojitra123/">
 
-\<a href="https\://linkedin.com/in/MohitSojitra123">\<img src="https\://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>\</a>
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="420" alt="Coding Animation"/>
 
-\<a href="tel:9408413570">\<img src="https\://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>\</a>
+</a>
 
-\</div>
+<br/>
 
-**---**
+### 💻 Code • 🧠 Learn • 🚀 Build • 🔥 Repeat
 
-\<div align="center">
+<br/>
 
-\<img src="https\://raw\.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="420" alt="Coding Animation"/>
+<h3>
 
-\### 💻 Code • 🧠 Learn • 🚀 Build • 🔥 Repeat
+<em>"Code is like humor. When you have to explain it, it's bad."</em> 😄
 
-\<h3>\<em>"Code is like humor. When you have to explain it, it's bad."\</em> 😄\</h3>
+</h3>
 
-\</div>
+<br/>
+
+<a href="https://github.com/MohitSojitra123/">
+
+<img src="https://img.shields.io/badge/⭐_Visit_My_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+</div>
