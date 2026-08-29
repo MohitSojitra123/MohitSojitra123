@@ -242,8 +242,8 @@ A console-based Java application for managing bus operations, passenger bookings
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=MohitSojitra123&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohitSojitra123&layout=compact&theme=radical&hide_border=true" />
+<img height="180" src="https://github.com/MohitSojitra123/" />
+<img height="180" src="https://github.com/MohitSojitra123/" />
 
 <br/>
 
