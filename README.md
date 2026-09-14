@@ -67,7 +67,7 @@
 - 🌱 Quick learner, always exploring new technologies and clean-code practices
 - 🧩 Actively solving problems on **LeetCode**
 - 📐 Currently strengthening **System Design** fundamentals
-- ⚡ Fun fact: I turn coffee ☕ into code 💻
+
 
 <br clear="right"/>
 
